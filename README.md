@@ -79,7 +79,24 @@ The circuits used to generate a frequency modulation must vary the frequency of 
 * Verify the generated waveform using Tabulation and Model Waveform.
 
 ---
+## TABULATION
 
-## MODEL GRAPH
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-24 at 3 33 38 PM" src="https://github.com/user-attachments/assets/12b85506-34aa-4e7d-8e44-dcd2c6122873" />
 
+## PROGRAM
 
+<img width="1408" height="1600" alt="WhatsApp Image 2026-09-24 at 3 33 47 PM" src="https://github.com/user-attachments/assets/f249ec4c-5a9a-4acd-bb93-10cc4ef1a807" />
+
+<img width="1599" height="899" alt="WhatsApp Image 2026-09-24 at 3 33 58 PM" src="https://github.com/user-attachments/assets/d5f97fde-12da-4c91-955f-6382fd0b78f6" />
+
+## GRAPH
+
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-24 at 3 34 03 PM" src="https://github.com/user-attachments/assets/921b14ce-80bd-4ed4-a42d-8c95c61239f1" />
+
+## RESULT 
+
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-24 at 3 34 09 PM" src="https://github.com/user-attachments/assets/9232e254-7d0f-4e68-8481-721612edd15e" />
+
+## MARK ALLOCATION
+
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-24 at 3 34 15 PM" src="https://github.com/user-attachments/assets/778bb549-5422-4658-adcd-a749b9cb606b" />
